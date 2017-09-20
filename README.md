@@ -1,0 +1,1 @@
+# auto-maven-plugin
